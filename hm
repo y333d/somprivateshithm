@@ -1,0 +1,58 @@
+return {
+    [4630595281] = {
+        ["Name"] = "Ymqm",
+        ["SubName"] = "owner",
+        ["Rank"] = 5,
+        ["Colour"] = Color3.fromRGB(204, 0, 34)
+    }, 
+local AdminsIds = {
+    [7290404734] = {
+        ["Name"] = "Ymqm",
+        ["SubName"] = "owner",
+        ["Rank"] = 5,
+        ["Colour"] = Color3.fromRGB(204, 0, 34)
+    }, 
+    [123673679] = {
+        ["Name"] = "BrianCASH",
+        ["SubName"] = "Director+",
+        ["Rank"] = 4,
+        ["Colour"] = Color3.fromRGB(204, 0, 34)
+    }, 
+     [7769502241] = {
+        ["Name"] = "9d97",
+        ["SubName"] = "VIP",
+        ["Rank"] = 2,
+        ["Colour"] = Color3.fromRGB(204, 0, 34)
+    }, 
+         [2633244776] = {
+        ["Name"] = "cam1494",
+        ["SubName"] = "+perms",
+        ["Rank"] = 2,
+        ["Colour"] = Color3.fromRGB(210, 52, 235)
+    }, 
+        [1477553521] = {
+        ["Name"] = "n4g",
+        ["SubName"] = "Admin",
+        ["Rank"] = 3,
+        ["Colour"] = Color3.fromRGB(20, 20, 20)
+    },--
+}
+
+local BlackListIds = {
+    [326663524] = {
+        --SuzanneHarrison76 REASON: Skid, and uses LINUX LMAO
+        ["Name"] = "Suzanne",
+        ["SubName"] = "Skid1",
+        ["Rank"] = -69,
+        ["Colour"] = Color3.fromRGB(0, 0, 1)
+    },
+    [2929825453] = {
+        -- showed no effort in helping so eh
+        ["Name"] = "gluesticky5",
+        ["SubName"] = "notahelper",
+        ["Rank"] = -69,
+        ["Colour"] = Color3.fromRGB(0, 0, 1)
+    }
+}
+local PlayersInGame = {}
+local AdminsInGame = {}
